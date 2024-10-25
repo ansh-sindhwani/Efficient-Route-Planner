@@ -1,8 +1,6 @@
 ***
 ## ROUTING
 ***
-Routing is the project that we, **_Group-29_** have worked upon for our DSA mini-project.
-***
 ### IDEALOGY
 ***
 We try to make a program that helps users to find the safest and shortest time consuming path from one place(a node) in the city to other place(another node) in the city(graph).<br />
@@ -23,13 +21,3 @@ for seeing graph in python-
 ```python3.8 Adj_graph.py``` 
 and enter those 5 float number manually or by using redirector operator
 for seeing our report click on analysis.txt
-***
-### GROUP MEMBERS
-***
-|Serial no|Roll number  | NAME           | 
-|-----    |------       |------          |
-|   1     |2020100001   |Parshva Bhadra  | 
-|   2     |2020101052   |Aditya Malhotra |  
-|   3     |2020102052   |Karnati Jahnavi |
-|   4     |2020112012   |Anubhav Pal     |
-|   5     |2020115008   |Aaryan Sharma   |

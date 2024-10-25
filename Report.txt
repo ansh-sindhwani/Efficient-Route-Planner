@@ -99,7 +99,3 @@ We succesfully implemented our code to execute the programme as per the requreme
 designed.Code is drafted to run on the basis of Parameters.Our project is accurate and authentic, when compared to other applications,because it gives 
 shortest time/distance & safest path to destination.This programm is versatile and unique, as it used the algorthim for finding the safest path.
 
-
-We sincerly thank Tanish sir for the excellent guidiance through out our project...
-
-
