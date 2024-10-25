@@ -11,8 +11,6 @@ int main()
     timeHistoryTable *T;
 
     printf("WELCOME TO ROUTING!\n");
-    printf("Mini Project of Group 29 under TA Mr. Tanish Lad\n");
-    printf("\nBy\nAditya Malhotra(2020101052)\nParshva Bhadra(2020101001)\nAnubhav Pal(2020112012)\nKarnati Jahnavi(2020102052)\nAaryan Sharma(2020115008)\n\n");
     /*
     printf("Please enter the total number of vertices: \n");
     scanf("%d", &degree);
